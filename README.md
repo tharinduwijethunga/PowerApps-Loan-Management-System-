@@ -9,3 +9,43 @@
 <img width="1786" height="1008" alt="Screenshot 2025-10-27 104135" src="https://github.com/user-attachments/assets/3778f1dd-8122-4099-98cc-a9537d4dff4f" />
 <img width="1778" height="1000" alt="Screenshot 2025-10-27 104242" src="https://github.com/user-attachments/assets/982a4209-6c39-4e42-ac6a-b23e3694999c" />
 <img width="1773" height="1003" alt="Screenshot 2025-10-27 104439" src="https://github.com/user-attachments/assets/a7aaeea7-a2db-4e24-9302-3358e8a2e607" />
+
+Loan Management Application – Portfolio Overview
+
+The Loan Management Application is a Power Apps–based solution designed to streamline and automate employee loan handling within an organization. The system provides a structured workflow for requesting, approving, tracking, and adjusting employee loans, ensuring transparency and reducing manual administrative work.
+
+Key Features
+* Employee Features
+
+Submit Loan Requests
+Employees can easily apply for loans through a user-friendly interface.
+
+Check Loan Status
+Real-time updates allow employees to track the progress of their submitted loan requests.
+
+View Current Loan Details
+Users can see outstanding balances, monthly deductions, and repayment schedules.
+
+Loan History
+Complete history of past loans, including approved amounts, repayments, and completed loans.
+
+* Employer / Admin Features
+
+Review Loan Requests
+Employers or HR admins can view all new and pending loan applications.
+
+Approval Workflow
+Ability to approve or reject loan requests with comments for transparency.
+
+Loan Adjustments
+Admins can make adjustments such as changing repayment amounts, updating balances, or pausing deductions when required.
+
+* Purpose & Benefits
+
+Centralized digital system for managing all employee loan activities.
+
+Improves accuracy and reduces dependency on manual spreadsheets.
+
+Enhances communication between employees and HR/management.
+
+Provides an organized audit trail for financial compliance and reporting.
